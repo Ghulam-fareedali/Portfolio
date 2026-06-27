@@ -285,7 +285,7 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
   let subject = document.getElementById("subject").value;
   let message = document.getElementById("message").value;
 
-  let whatsappNumber = "923154685382";
+  let whatsappNumber = "923094588498";
 
   let text =
     "Name: " +
